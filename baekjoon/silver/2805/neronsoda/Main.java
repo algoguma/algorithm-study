@@ -1,4 +1,5 @@
-import java.io.*;
+package neronsoda;
+
 import java.util.*;
 
 public class Main {
